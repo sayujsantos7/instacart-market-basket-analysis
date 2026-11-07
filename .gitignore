@@ -1,0 +1,18 @@
+# Raw data
+data/*
+!data/README.md
+*.csv
+*.zip
+# Tableau extracts / backups
+*.hyper
+*.tde
+*.twbx
+*.twb.bak
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Tableau extracts
+exports/
