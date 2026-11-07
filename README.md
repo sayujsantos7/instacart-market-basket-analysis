@@ -159,7 +159,7 @@ PostgreSQL, SQL (CTEs, window functions, `FILTER` aggregates, percentiles, summa
 
 ## Author
 
-**Sayuj**: operations analytics, process improvement, Lean Six Sigma Black Belt.
+**Sayuj S**: operations analytics, process improvement, Lean Six Sigma Black Belt.
 
 ## Acknowledgements
 
